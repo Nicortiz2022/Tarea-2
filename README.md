@@ -149,7 +149,8 @@ V = 20V → → → R = 0.2Ω → → → V = 30v
 
 28. encuentre la resistencia de un reóstato para cada valor de V e I:
 
-![image](https://user-images.githubusercontent.com/105940407/170532432-755fa3c1-926a-4d69-bfd6-967243a9d6c2.png)
+![image](https://user-images.githubusercontent.com/105940407/170532432-755fa3c1-926a-4d69-bfd6-967243a9d6c2.png)ç
+
 ![image](https://user-images.githubusercontent.com/105940407/170532495-05046111-16e3-42c1-aad4-91e2ef3a3555.png)
 
 30.Se aplican seis volts a través de un resistor. Se mide una corriente de 2mA . ¿Cuál es el valor del resistor?	
@@ -200,6 +201,7 @@ Lo más recomendable es armar un circuito en serie con la fuente de 12V y la res
 16.	Determine la corriente en cada caso:
 
 ![image](https://user-images.githubusercontent.com/105940407/170533733-decf94c7-c906-46b4-b930-15c2593244c6.png)
+
 ![image](https://user-images.githubusercontent.com/105940407/170533789-f40e7855-0644-405f-b566-09801fa6321e.png)
 
 
@@ -251,6 +253,20 @@ La respuesta final: El valor de corriente es de 3.69mA mientras que el valor min
 
 ![image](https://user-images.githubusercontent.com/105940407/170534707-8e28f0a0-3c17-47f0-af38-08ed4954439b.png)
 
+VIDEO
+
+https://youtu.be/4mGVJXE2o9k 
+
+CONCLUSIONES
+
+La ley de Ohms es algo fundamental para quienes estan aprendiendo a calcular y medir circuitos electricos y sus componontes 
+Conocer el funcionamiento de un circuito antes de trabajarlo ahorraria tiempo e incluso preveniene accidentes 
+Tener muy en cuenta las unidades con las cuales se deben expresar en los ejercicios para no confundir unidades en el resultado
+
+
+BILBIOGRAFIA
+
+LOYD, THOMAS L.(2007). Principios de circuitos eléctricos. Octava edición. PEARSON EDUCACIÓN, México, 2007
 
 
 
