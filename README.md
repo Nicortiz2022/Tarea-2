@@ -161,11 +161,11 @@ V = 20V → → → R = 0.2Ω → → → V = 30v
 
 Lo más recomendable es armar un circuito en serie con la fuente de 12V y la resistencia, seguido calculamos la corriente con el amperímetro y despejamos R de la ley de Ohm ( I=V/R ) para calcular la resistencia.	
 
-![image](https://user-images.githubusercontent.com/105940407/170533158-c0b65c10-4d2e-4679-88f5-6730503e1bbe.png)
+34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15 Q.
 
 45Ω
 
-![image](https://user-images.githubusercontent.com/105940407/170533226-6b8c3d41-02d6-45ea-8404-f5c1d175c5a7.png)
+36. En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas.
 
 ![image](https://user-images.githubusercontent.com/105940407/170533265-c2f920ec-ba82-4eaa-be11-b9ffd76f0fe4.png)
 
